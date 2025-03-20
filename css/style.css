@@ -11,3 +11,8 @@ body {
     font-size: 24px;
     background-image: url(/imagenes/fondo.jpg);
 }
+
+.back{
+    text-decoration: none;
+    font-size: 30px;
+}
